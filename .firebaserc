@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "seo-adspro"
+  },
+  "targets": {
+    "seo-adspro": {
+      "hosting": {
+        "pozitive": [
+          "pozitive"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
