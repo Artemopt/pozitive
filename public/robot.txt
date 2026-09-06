@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pozitive.web.app/sitemap.xml
